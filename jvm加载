@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2023-01-28T07:55:32.073Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" version="20.8.13" etag="yiit9ngFRpV6Y9pTnKNy" type="github"><diagram name="第 1 页" id="XKUw9424lv3b7H3r5w-3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-28T08:13:58.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="aulYuVTZ-I4KULEPQDmH" version="20.8.13" type="github">
+  <diagram name="第 1 页" id="XKUw9424lv3b7H3r5w-3">
+    <mxGraphModel dx="868" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YrkTPdRtTk6yIbheu81I-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;comic=1;" edge="1" parent="1" source="YrkTPdRtTk6yIbheu81I-2" target="YrkTPdRtTk6yIbheu81I-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-2" value="&lt;font face=&quot;Verdana&quot;&gt;classFile&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;" edge="1" parent="1" source="YrkTPdRtTk6yIbheu81I-4" target="YrkTPdRtTk6yIbheu81I-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-4" value="&lt;font face=&quot;Verdana&quot;&gt;Class Loader&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-14" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;Execution&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;div style=&quot;&quot;&gt;Engine&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="YrkTPdRtTk6yIbheu81I-27" target="YrkTPdRtTk6yIbheu81I-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;entryX=0.042;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YrkTPdRtTk6yIbheu81I-27" target="YrkTPdRtTk6yIbheu81I-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="402" />
+              <mxPoint x="140" y="402" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-27" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;align=center;" vertex="1" parent="1">
+          <mxGeometry x="23" y="422" width="225" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-16" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;JIT&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;Compiler&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="430" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-17" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;Garbage&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;Collector&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;entryX=0.558;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YrkTPdRtTk6yIbheu81I-18" target="YrkTPdRtTk6yIbheu81I-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="YrkTPdRtTk6yIbheu81I-18" target="YrkTPdRtTk6yIbheu81I-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-18" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;Native Method Interface&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;本地方法接口&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="156" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;comic=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;entryX=0.954;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YrkTPdRtTk6yIbheu81I-20" target="YrkTPdRtTk6yIbheu81I-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-20" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;Native Method Libraries&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;本地方法库&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="500" y="430" width="156" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-5" value="Run Time Data Areas 运行时数据区&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="480" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-6" value="&lt;font face=&quot;Verdana&quot;&gt;Method Area&lt;br&gt;方法区&lt;br&gt;Class信息&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-8" value="&lt;font face=&quot;Verdana&quot;&gt;PC Register&lt;br&gt;程序计数器&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-9" value="&lt;font face=&quot;Verdana&quot;&gt;Native Method Stacks&lt;br&gt;本地方法栈&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="240" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-10" value="&lt;font face=&quot;Verdana&quot;&gt;Java Virtual Machine Stacks&lt;br&gt;Java 虚拟机栈&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YrkTPdRtTk6yIbheu81I-7" value="&lt;font face=&quot;Verdana&quot;&gt;Heap 堆&lt;br&gt;new Object()&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;zigzagOffset=-1;sketchStyle=rough;fillStyle=zigzag;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
